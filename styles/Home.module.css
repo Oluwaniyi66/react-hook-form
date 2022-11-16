@@ -1,5 +1,6 @@
 .container {
   padding: 0 2rem;
+  background-color: darkblue;
 }
 
 .main {
@@ -118,10 +119,10 @@
 @media (prefers-color-scheme: dark) {
   .card,
   .footer {
-    border-color: #222;
+    border-color: #fff;
   }
   .code {
-    background: #111;
+    background: #ffffff;
   }
   .logo img {
     filter: invert(1);
